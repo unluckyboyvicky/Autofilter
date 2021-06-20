@@ -9,6 +9,7 @@ class Translation(object):
 
 You Can't Add Me In Your Group 🏌️‍♀️😆
 My Boss @Unluckyboyvicky 
+Co Founder @Only_Ajay
 
 For More Details Click Help Button Below..
 @Tamil_1080p_Movies_HD
