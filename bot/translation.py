@@ -9,10 +9,10 @@ class Translation(object):
 
 You Can't Add Me In Your Group 🏌️‍♀️😆
 My Boss @Unluckyboyvicky 
-Co Founder @Only_Ajay
+
 
 For More Details Click Help Button Below..
-@Tamil_1080p_Movies_HD
+
 </i>"""    
     
     HELP_TEXT = """
@@ -45,7 +45,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@Tamil_1080p_Movies_HD
+
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
