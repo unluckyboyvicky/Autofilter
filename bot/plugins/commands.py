@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/Tamil_1080p_Movies_HD"
+                                    'Join Now', url="https://t.me/triggermovieschannel"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/Tamil_1080p_Movies_HD"
+                                    'Join Now', url="https://t.me/triggermovieschannel"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/Tamil_1080p_Movies_HD"
+                                    'Join Now', url="https://t.me/triggermovieschannel"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/unluckyboyvicky'),
+        InlineKeyboardButton('Developer', url='https://t.me/unluckyboyvicky'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/Tamil_1080p_Movies_HD')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/triggermovieschannel')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
